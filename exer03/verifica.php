@@ -6,8 +6,8 @@
 
     echo "Nome: ".$nome."<br>";
     echo "Endereço: ".$endereco."<br>";
-    if($idade>=18) echo "Você é maior de idade: ".$idade."<br>";
-    else echo "Você é menor de idade: ".$idade."<br>";
+    if($idade>=18) echo "Minha idade é: ".$idade."<br>";
+    else echo "Você é menor de idade <br>";
     
     echo "Sexo:".$sexo;
 ?>
